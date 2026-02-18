@@ -110,7 +110,8 @@ plt.show()
 
 ## Output:
 
-![alt text](image.png)
+<img width="495" height="127" alt="image" src="https://github.com/user-attachments/assets/fa7eec14-5631-4dd0-806a-87d429243705" />
+
 
 <img width="782" height="498" alt="image" src="https://github.com/user-attachments/assets/ebafcb38-a6ff-4b32-86aa-bbad285810ce" />
 
