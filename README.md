@@ -1,7 +1,7 @@
 <H3>ENTER YOUR NAME : MOHAMED AAKIF ASRAR S</H3>
 <H3>ENTER YOUR REGISTER NO. : 212223240088 </H3>
 <H3>EX. NO.3</H3>
-<H3>DATE : 18/02/2026</H3>
+<H3>DATE : 19/02/2026</H3>
 <H1 ALIGN =CENTER> Implementation of Approximate Inference in Bayesian Networks
 </H1>
 
@@ -108,14 +108,12 @@ plt.show()
 
 ```
 
+
 ## Output:
 
-<img width="495" height="127" alt="image" src="https://github.com/user-attachments/assets/fa7eec14-5631-4dd0-806a-87d429243705" />
+![alt text](image.png)
 
-
-<img width="782" height="498" alt="image" src="https://github.com/user-attachments/assets/ebafcb38-a6ff-4b32-86aa-bbad285810ce" />
-
+<img width="619" height="442" alt="image" src="https://github.com/user-attachments/assets/4a741c4a-c8fe-4dff-87a9-0a52b69ebeb8" />
 
 ## Result:
 Thus, Gibb's Sampling( Approximate Inference method) is succuessfully implemented using python.
-
