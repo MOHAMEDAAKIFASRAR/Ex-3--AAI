@@ -111,7 +111,7 @@ plt.show()
 
 ## Output:
 
-![alt text](image.png)
+<img width="495" height="127" alt="image" src="https://github.com/user-attachments/assets/8da25275-dd63-4ba6-ab80-789be0ddc98e" />
 
 <img width="619" height="442" alt="image" src="https://github.com/user-attachments/assets/4a741c4a-c8fe-4dff-87a9-0a52b69ebeb8" />
 
